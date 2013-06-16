@@ -129,7 +129,7 @@ int main()
 			}
 		}
 	}
-	string obj_name("cube");
+	string obj_name("");
 	CGraspPlannerd grasp_planner(vec_objbox3, obj_name);
 	return 0;
 }
